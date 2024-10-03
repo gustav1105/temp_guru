@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Temp Guru
+Comment=Monitor CPU and GPU temperatures
+Exec=/path/to/temp_guru
+Icon=/path/to/icon.png  # Optional: If you want to use a custom icon
+Terminal=false
+Type=Application
+Categories=Utility;Application;
